@@ -12,6 +12,7 @@ This code creates a sequence of Fibonacci numbers. Here's how it works:
 
 
 Additionally, it includes a mechanism to handle user input:
+
 1)It asks the user to input the number of Fibonacci numbers they want.
 
 2)If the input is not a valid integer or if it's not a positive number, it prompts the user to enter a valid input.
