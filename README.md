@@ -1,9 +1,16 @@
-#Fibonacci Generator
+#Fibonacci Generator   
+
 This code creates a sequence of Fibonacci numbers. Here's how it works:
 
 1)It defines a function called fibonacci_series that calculates Fibonacci numbers up to a specified count.
+
+
 2)Inside the function, it starts with the first two Fibonacci numbers [0, 1] and then adds the last two numbers to generate the next number in the sequence.
+
+
 3)It repeats this process until it reaches the specified count of Fibonacci numbers.
+
+
 4)After generating the sequence, it prints out the Fibonacci series.
 
 Additionally, it includes a mechanism to handle user input:
