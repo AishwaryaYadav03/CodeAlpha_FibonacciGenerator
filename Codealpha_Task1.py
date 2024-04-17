@@ -8,7 +8,6 @@ def fibonacci_series(n):
 
     return fib_series
 
-
 # Input from the user
 try:
     num_terms = int(input("Enter the number of terms you want in the Fibonacci series: "))
