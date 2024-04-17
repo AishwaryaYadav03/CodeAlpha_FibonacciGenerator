@@ -7,7 +7,7 @@ def fibonacci_series(n):
         fib_series.append(next_term)
 
     return fib_series
-0
+
 
 # Input from the user
 try:
